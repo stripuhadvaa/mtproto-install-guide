@@ -1,4 +1,4 @@
-# Инструкция по установке и настройке MTProxy (mtg) на Ubuntu/debian
+# Инструкция по установке и настройке MTProxy (mtg) на Ubuntu/Debian с Fake TLS
 
 ### 1. Установка, смотрите актуальную версии тут [mtg](https://github.com/9seconds/mtg)
 ```bash
