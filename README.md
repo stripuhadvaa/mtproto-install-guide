@@ -26,7 +26,7 @@ rm -rf mtg-2.2.4-linux-amd64 mtg-2.2.4-linux-amd64.tar.gz
 ### 3. Генерация основного Fake-TLS секрета
 Теперь создайте «длинный» секрет для работы самого прокси (Fake-TLS):
 ```bash
-mtg generate-secret -c vk.ru
+mtg generate-secret -x vk.ru
 ```
 *Скопируйте полученный длинный код (начинается на `ee...`).*
 _*Вместо `vk.ru` можно указать любой другой домен._
